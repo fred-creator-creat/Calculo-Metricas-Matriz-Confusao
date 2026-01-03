@@ -40,9 +40,9 @@ Para uma avaliação rigorosa, foram utilizadas as seguintes fórmulas (seguindo
 
 * Acurácia: $(VP + VN) / N$
 
-Precisão: $VP / (VP + FP)$
+* Precisão: $VP / (VP + FP)$
 
-F-score: $2 \times (Precisão \times Sensibilidade) / (Precisão + Sensibilidade)$
+* F-score: $2 \times (Precisão \times Sensibilidade) / (Precisão + Sensibilidade)$
 
 📈 Resultados Obtidos
 

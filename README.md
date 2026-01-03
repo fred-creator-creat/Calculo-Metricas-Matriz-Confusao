@@ -48,17 +48,17 @@ Para uma avaliação rigorosa, foram utilizadas as seguintes fórmulas (seguindo
 
 Após o treinamento de 5 épocas, o modelo apresentou os seguintes resultados (extraídos da Célula 5):
 
-Métrica                          Valor Obtido
+Métrica                                                       Valor Obtido
 
-Sensibilidade                    0.9959
+Sensibilidade                                                 0.9959
 
-Especificidade                   0.9996
+Especificidade                                                0.9996
 
-Acurácia                         0.9992
+Acurácia                                                      0.9992
 
-Precisão                         0.9959
+Precisão                                                      0.9959
 
-F-Score                          0.9959
+F-Score                                                       0.9959
 
 Estes números confirmam que a rede neural aprendeu a distinguir os dígitos com um índice de erro quase nulo, demonstrando alta robustez tanto na detecção quanto no descarte de falsos positivos.
 

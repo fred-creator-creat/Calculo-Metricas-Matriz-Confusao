@@ -48,30 +48,18 @@ Para uma avaliação rigorosa, foram utilizadas as seguintes fórmulas (seguindo
 
 Após o treinamento de 5 épocas, o modelo apresentou os seguintes resultados (extraídos da Célula 5):
 
-Métrica
+Métrica                          Valor Obtido
 
-Valor Obtido
+Sensibilidade                    0.9959
 
-Sensibilidade
+Especificidade                   0.9996
 
-0.9959
+Acurácia                         0.9992
 
-Especificidade
+Precisão                         0.9959
 
-0.9996
-
-Acurácia
-
-0.9992
-
-Precisão
-
-0.9959
-
-F-Score
-
-0.9959
+F-Score                          0.9959
 
 Estes números confirmam que a rede neural aprendeu a distinguir os dígitos com um índice de erro quase nulo, demonstrando alta robustez tanto na detecção quanto no descarte de falsos positivos.
 
-Projeto desenvolvido por Fred. Realizado como parte da formação em Machine Learning da DIO (Digital Innovation One), patrocinado pela BairesDev.
+Projeto desenvolvido por Fred Cavalheiro. Realizado como parte da formação em Machine Learning da DIO (Digital Innovation One), patrocinado pela BairesDev.
